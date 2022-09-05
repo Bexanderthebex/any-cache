@@ -1,2 +1,2 @@
 # any-cache
-Simple key-value cache that provides atomic guarantees
+An experiment to find out the performance of a map implemented using generics
